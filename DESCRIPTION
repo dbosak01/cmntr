@@ -24,3 +24,4 @@ Suggests:
 Imports: stringi
 RoxygenNote: 7.2.0
 Config/testthat/edition: 3
+VignetteBuilder: knitr
